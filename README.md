@@ -1,2 +1,5 @@
-# fun-ousadia-bd-main
-odio, depreçao, destruiçao, medo, ansiedade,  e tudo que ha de bom 
+# fun-ousadia-bd
+Funeraria Ousadia  + banco de dados
+
+Importe o banco de dados para seu PHPMyAdmin
+Nome banco de dados: funeraria_ousadia.sql
